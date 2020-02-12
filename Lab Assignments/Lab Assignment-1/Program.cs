@@ -6,6 +6,8 @@ namespace Lab_Assignment_1
     {
         static void Main(string[] args)
         {
+            ///////////////////////////////////////////////////////////////////////////
+            
             #region Part 1 - String Concatenation
 
             Console.Write("What is your first name? --> ");
@@ -20,7 +22,8 @@ namespace Lab_Assignment_1
             string fullName = (firstName + " " + middleInitial + " " + lastName);
 
             #endregion
-            //////////////////////////////////////////////////////////////
+            ///////////////////////////////////////////////////////////////////////////
+            
             #region Part 2 - Arithmetic Expression
 
             Console.Write("What is your age? --> ");
@@ -39,7 +42,8 @@ namespace Lab_Assignment_1
             double totalHeightCM = (heightFtToInches * cmPerInch);
 
             #endregion
-            //////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////
+            
             #region Part 3 - Boolean Expression
 
             Console.Write("Are you a US citizen? --> ");
@@ -48,7 +52,8 @@ namespace Lab_Assignment_1
             bool canVote = age >= 18 && isCitizen;
 
             #endregion
-            /////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////
+            
             #region Print
 
             Console.WriteLine("Hello " + fullName);
@@ -57,6 +62,7 @@ namespace Lab_Assignment_1
             Console.WriteLine("Press any key to end this program!");
 
             #endregion
+            ///////////////////////////////////////////////////////////////////////////
         }
     }
 }
