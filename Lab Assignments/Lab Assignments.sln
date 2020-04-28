@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab Assignment-1", "Lab Ass
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab Assignment-2", "Lab Assignment-2\Lab Assignment-2.csproj", "{2EE58560-8BE3-4884-82BA-07B27BFFD2D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Assignment-3", "Lab Assignment-3\Lab Assignment-3.csproj", "{A347A876-4541-4701-BC9F-C0E8E9A8F880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab Assignment-3", "Lab Assignment-3\Lab Assignment-3.csproj", "{A347A876-4541-4701-BC9F-C0E8E9A8F880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Assignment-4", "Lab Assignment-4\Lab Assignment-4.csproj", "{F603C56C-9B0E-48E0-A629-C64CD3EEB50D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab Assignment-4", "Lab Assignment-4\Lab Assignment-4.csproj", "{F603C56C-9B0E-48E0-A629-C64CD3EEB50D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Assignment-5", "Lab Assignment-5\Lab Assignment-5.csproj", "{6EC4F0C0-5CB7-4056-A008-24324259C291}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F603C56C-9B0E-48E0-A629-C64CD3EEB50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F603C56C-9B0E-48E0-A629-C64CD3EEB50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F603C56C-9B0E-48E0-A629-C64CD3EEB50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC4F0C0-5CB7-4056-A008-24324259C291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC4F0C0-5CB7-4056-A008-24324259C291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC4F0C0-5CB7-4056-A008-24324259C291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC4F0C0-5CB7-4056-A008-24324259C291}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
